@@ -1,0 +1,14 @@
+{
+	"category" : "CodeCity-Spec",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "YuriyTymchuk 6/19/2014 11:27",
+	"instvars" : [
+		 ],
+	"name" : "MorphicCCAdapter",
+	"pools" : [
+		 ],
+	"super" : "AbstractMorphicAdapter",
+	"type" : "normal" }

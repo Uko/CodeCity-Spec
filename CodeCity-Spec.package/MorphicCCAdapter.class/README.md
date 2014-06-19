@@ -1,0 +1,1 @@
+More magic. At the moment I have no idea how adepters have to work
