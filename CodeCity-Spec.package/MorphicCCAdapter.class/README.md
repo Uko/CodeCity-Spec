@@ -1,1 +1,1 @@
-More magic. At the moment I have no idea how adepters have to work
+I addapt CodeCity to use it in Spec. For usage refer to CCModel
